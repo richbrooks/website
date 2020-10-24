@@ -28,4 +28,7 @@ Let's Encrypt
 - If you can, wait until Black Friday/Cyber Monday events.  
 - https://www.elegantthemes.com/affiliates/idevaffiliate.php?id=13378
 
+### Theme Documentation
+- https://www.elegantthemes.com/documentation/divi/
+
 Disclosure: Some of the links in this post are "affiliate links." This means if you click on the link and purchase the item, I will receive an affiliate commission.
